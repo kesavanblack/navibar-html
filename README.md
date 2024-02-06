@@ -1,2 +1,3 @@
 # navibar-html
-navi bar create html,css
+A navigation bar needs standard HTML as a base
+navbar using for html,css
